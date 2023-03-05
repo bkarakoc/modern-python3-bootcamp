@@ -1,0 +1,1 @@
+Scripts that I'm writing during the Colt Steele's Modern Python 3 Bootcamp on [Udemy](https://www.udemy.com/course/the-modern-python3-bootcamp/)
